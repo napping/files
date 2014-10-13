@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/Users/brianshi/work/wonderwoman/wonderwoman/app/scripts'
+let g:netrw_dirhist_2='/Users/brianshi/work/penncycle/PennCycle/penncycle/templates'
+let g:netrw_dirhist_3='/Users/brianshi/Desktop'
+let g:netrw_dirhist_4='/private/etc/apache2'
+let g:netrw_dirhist_5='/Users/brianshi/work/pcnstesting/PCNS_Testing/public/_images'
